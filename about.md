@@ -4,15 +4,8 @@ title: Sobre
 permalink: /sobre/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Depósito de textos sobre como a arquitetura nos afeta no dia a dia e seu papel em outras áreas das nossas vidas e seus impactos sociais, culturais e políticos.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+O conteúdo do site está sob [Creative Commons 3.0]. Todo o conteúdo está sob licença MIT, pode usar como quiser. Pode enviar seu texto ou deixar um recado em geisterstadte@gmail.com.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[Creative Commons 3.0]:https://creativecommons.org/licenses/by-nc-sa/3.0/
