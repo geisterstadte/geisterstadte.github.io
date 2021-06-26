@@ -1,115 +1,28 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
-categories: junk
-author:
-- Bart Simpson
-- Nelson Mandela Muntz
-meta: "Springfield"
+title: "Dados"
+
+
+
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+<!-- wp:paragraph {"align":"left","ampFitText":true} -->
+<amp-fit-text layout="fixed-height" min-font-size="6" max-font-size="72" height="80"><p class="has-text-align-left">Esse é o primeiro post desse site. A idéia é juntar coisas que julgamos interessante, coisas pequenas, que todos já conhecem, invariavelmente teremos por aqui assuntos que vimos pela INTERNET.</p></amp-fit-text>
+<!-- /wp:paragraph -->
 
-## Some great heading (h2)
+<!-- wp:paragraph -->
+<p>Tá bem, mas o que isso tem a ver com arquitetura? Nós tendemos a perceber a internet como uma entidade etérea, sem correspondência no mundo real, mas essa é apenas uma parte dela. Basicamente ela existe em três domínios coincidentes: o lógico - que significa o código usado para gerar essa página - o físico - o celular ou computador em que você está lendo isso, além dos cabos de fibra ótica por onde essas informações correm - e o geográfico - onde todos esses dados ficam guardados. Sim, pode parecer bobagem dizer isso, mas a "nuvem" não é uma nuvem de verdade pairando sob nossas cabeças. Nós somos levados a pensar isso para abstrairmos a realidade física de nossos DADOS - a grande moeda da internet e modelo de negócio das grandes empresas de tecnologia.</p>
+<!-- /wp:paragraph -->
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
+<!-- wp:paragraph -->
+<p>Os dados são um recurso, e como todo recurso em uma sociedade capitalista, serve para ser explorado. Eles podem ser livremente e consensualmente fornecidos, extraídos, coletados ou roubados. Podem ainda serem vendidos, comprados e transferidos para locais e por pessoas que não fazemos a menor ideia de quem sejam ou o que querem e não estamos nem um pouco interessados em entender para quê, pois estamos recebendo um suposto benefício em troca – como aqueles filtros de Facebook em que mostram como seria sua versão do sexo oposto ou ser lembrado dos aniversários dos seus contatos.</p>
+<!-- /wp:paragraph -->
 
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+<!-- wp:paragraph -->
+<p>Os dados em si são moralmente neutros. Podem ser coletados, usados e armazenados para o bem universal tanto quanto para o ganho seletivo de um pequeno grupo. Há um gerenciamento de percepção das grandes companhias para nos fazer acreditar que elas fornecem o primeiro enquanto operam o segundo.</p>
+<!-- /wp:paragraph -->
 
-## Another great heading (h2)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
-
-### Some great subheading (h3)
-
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
-
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-### Some great subheading (h3)
-
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-> This quote will *change* your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don't <em>misuse</em> it.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
-
-### Some great subheading (h3)
-
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
-
-```html
-<html>
-  <head>
-  </head>
-  <body>
-    <p>Hello, World!</p>
-  </body>
-</html>
-```
-
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### You might want a sub-subheading (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### But it's probably overkill (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-##### Could be a smaller sub-heading, `pacman` (h5)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-###### Small yet significant sub-heading  (h6)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-### Oh hai, an unordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
-
-### Oh hai, an ordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-1. First item, yo
-2. Second item, dawg
-3. Third item, what what?!
-4. Fourth item, fo sheezy my neezy
-
-
-
-## Headings are cool! (h2)
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-### Tables
-
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | --------------------- | --------------------- | ---------------------
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-
-
-Title 1 | Title 2 | Title 3 | Title 4
---- | --- | --- | ---
-lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
-lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
-lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
-lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur
+<!-- wp:image {"id":74,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://geisterstadte.files.wordpress.com/2021/06/imagem1.png?w=884" alt="" class="wp-image-74"/><figcaption><em>Apple Park em Cupertino, Califórnia. A sede da gigante tecnológica foi projetada por Norman Foster e alardeada como o edifício mais inovador do mundo.</em></figcaption></figure>
+<!-- /wp:image -->
